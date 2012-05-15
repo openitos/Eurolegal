@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="package" version="2.5">
+	<name>Greek Language Pack</name>
+	<packagename>el-GR</packagename>
+	<version>2.5.4</version>
+	<creationDate>2012-02-02</creationDate>
+	<author>joomla.gr</author>
+	<authorEmail>admin@joomla.gr</authorEmail>
+	<authorUrl>www.joomla.gr</authorUrl>
+	<description>2.5.4 Joomla! Greek Language Package</description>
+	<files>
+		<file type="language" client="site" id="el-GR">site_el-GR.zip</file>
+		<file type="language" client="administrator" id="el-GR">admin_el-GR.zip</file>
+	</files>
+	<updateservers>
+		<server type="extension" priority="1" name="Greek Language Pack Update Site">http://www.joomla.gr/el-GR_joomla_lang_full-update.xml</server>
+	</updateservers>
+</extension>
